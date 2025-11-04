@@ -46,11 +46,16 @@ npm run cy:run
 This short demo shows the first Cypress E2E test scenario —
 executing both happy and negative paths within the SDP Automation Framework.
 
-🎥 Watch on YouTube:
-👉 https://youtu.be/7UrBg-QnIUo
+🎬 Demo Video
 
-Mentors: Nurettin Şenyer, Ömer Durmuş
-Developer: Ceren Azar – Samsun University, Software Engineering
-💼 LinkedIn Profile
+This short demo shows the first Cypress E2E test scenario —
+executing both happy and negative paths within the SDP Automation Framework.
 
-💕 Made with luv — tested with logic.
+🎥 **Watch on YouTube:**  
+▶️ [https://youtu.be/7UrBg-QnIUo](https://youtu.be/7UrBg-QnIUo)
+
+**Mentors:** Nurettin Şenyer, Ömer Durmuş  
+**LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/ceren-azar-ba9358297/)
+
+
+💕 *Made with luv — tested with logic.*
